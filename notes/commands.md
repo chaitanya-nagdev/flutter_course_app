@@ -6,4 +6,5 @@
 - flutter create first_app : create a new directory/project with given name 
 
 
-2) 
+2) Run the project  
+- flutter run 
