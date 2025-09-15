@@ -35,3 +35,13 @@ dynamic nameAge = 'stores the name';
 name-age = 4;
 
 ```
+
+# Mouse Over
+
+- Right Click over widget & then you can refactor & wrap your widget with other widget
+
+# Container
+
+- You can set height, width (double.infinity to take all the space of parent),
+  use padding (EdgeInsets), decoration (BoxDecoration)
+- It wraps around widget & can be used for decorations
